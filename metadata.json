@@ -1,0 +1,6 @@
+{
+  "name": "Website Performance and SEO Auditor",
+  "description": "Evaluate webpage load speeds, Core Web Vitals, accessibility scores, on-page SEO factors, social media shareability, and keyword opportunities with real-time actionable fixes and competitor benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
